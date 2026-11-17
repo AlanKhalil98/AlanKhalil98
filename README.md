@@ -11,8 +11,8 @@ I'm a passionate full-stack developer with a strong focus on **Nuxt.js 3**, **Vu
 - Google Maps API, Three.js  
 
 **Backend:**  
-- Node.js, NestJS  
-- Prisma, Sequelize, MySQL  
+- Node.js, NestJS, Php Laravel  
+- Prisma, Sequelize, MySQL, TypeORM
 
 ## 🛠 What I'm Working On
 - Building dynamic and interactive websites
